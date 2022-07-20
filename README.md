@@ -1,1 +1,1 @@
-<h1 align="center">演绎量化</h1>
+<h1 align="center">衍绎量化</h1>
