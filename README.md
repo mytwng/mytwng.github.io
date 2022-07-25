@@ -2,4 +2,4 @@
 
 ---
 
-<iframe width="100%" height="800px" src="performance.html"></iframe>
+<iframe width="100%" height="1050px" src="performance.html"></iframe>
